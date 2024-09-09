@@ -1,3 +1,6 @@
-body { height: 3000px;
-    background-color: rgb(245, 152, 3);
- background-repeat: repeat-x; }
+body {
+    background-color: rgb(237, 135, 11);
+  }
+  div {
+    height: 2000px;
+  }
