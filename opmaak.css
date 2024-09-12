@@ -57,12 +57,12 @@ style
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
-  background-color: #3e8e41;
+  background-color: #fd0b0b;
 }
 
 div class="dropdown"
   <button class="dropbtn">Dropdown</button>
   <div class="dropdown-content">
-    <a href="#">Next page</a>
+    <a href="page2.html">Next page</a>
   </div>
 </div>
