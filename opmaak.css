@@ -12,7 +12,7 @@ body {
     display: block;
     padding: 8px;
   }
-  <style>
+style
 /* Style The Dropdown Button */
 .dropbtn {
   background-color: #4CAF50;
@@ -59,13 +59,4 @@ body {
 .dropdown:hover .dropbtn {
   background-color: #3e8e41;
 }
-</style>
 
-<div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
-  <div class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div>
