@@ -7,9 +7,6 @@ body {
     margin: 0;
     padding: 0;
   }
-  li {
-    float: right;
-  }
   
   a {
     display: block;
