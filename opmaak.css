@@ -1,11 +1,6 @@
 body {
   height:1000px;
     background-color: rgb(237, 135, 11);
-  }
-  /*--marquee zorgt ervoor dat de tekst van rechts naar links gaat bovenin het scherm*/
-marquee {
-  Versie 3.98 Dit is toch cool voor mijn eerste site, of niet?
-}
   ul {
     list-style-type: none;
     margin: 0;
