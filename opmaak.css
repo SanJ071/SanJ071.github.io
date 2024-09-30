@@ -66,3 +66,8 @@ style
   position:relative; top:0px; left: 540px; margin-left:0px; margin-right:0px;
   background-image: linear-gradient(180deg, #e71313, #ff6f00 40%, #d31155);
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
