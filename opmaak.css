@@ -123,3 +123,12 @@ ul {
   border-radius: 10px;
   border: solid #ff6f00;
 }
+
+.sport{
+
+  display: inline-block;
+  float: left;
+  border-color: #e71313;
+  border-radius: 10px;
+  border: solid #ff0000;
+}
