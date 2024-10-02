@@ -11,8 +11,6 @@ body {
     display: block;
     padding: 8px;
   }
-  
-.kleurrood {
   width: 15em;
   border: 1px solid #fd0b0b;
   box-shadow: 8px 8px 5px #444;
