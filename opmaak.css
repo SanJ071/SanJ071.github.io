@@ -12,14 +12,6 @@ body {
     padding: 8px;
   }
 
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-/* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {
-  background-color: #fd0b0b;
 }
 .kleurrood {
   width: 15em;
