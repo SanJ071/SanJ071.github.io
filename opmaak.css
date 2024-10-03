@@ -113,3 +113,10 @@ ul {
   border-radius: 10px;
   border: solid rgb(255, 0, 0);
 }
+.Tamer{
+
+  float: left;
+  border-color: green;
+  border-radius: 10px;
+  border: solid rgb(0, 128, 0);
+}
