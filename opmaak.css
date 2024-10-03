@@ -128,7 +128,7 @@ ul {
   border: solid rgb(0, 238, 255);
 }
 .Thom{
-
+border-inline: 100%;
   float: left;
   border-color: white;
   border-radius: 10px;
