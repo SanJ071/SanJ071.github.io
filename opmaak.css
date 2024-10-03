@@ -99,3 +99,10 @@ ul {
   border-radius: 10px;
   border: solid rgb(0, 0, 255);
 }
+.Floris{
+
+  float: left;
+  border-color: rgb(0, 0, 255);
+  border-radius: 10px;
+  border: solid rgb(0, 0, 255);
+}
