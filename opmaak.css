@@ -106,3 +106,10 @@ ul {
   border-radius: 10px;
   border: solid rgb(0, 0, 255);
 }
+.Dante{
+
+  float: left;
+  border-color: rgb(255, 0, 0);
+  border-radius: 10px;
+  border: solid rgb(255, 0, 0);
+}
