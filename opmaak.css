@@ -129,7 +129,8 @@ ul {
 }
 .Thom{
 /*De code hieronder is voor de border om de link naar de website van Thom van Nobelend en de tekst erboven*/
-  float: left;
+  border-inline: 100%;
+float: left;
   border-color: white;
   border-radius: 10px;
   border: solid rgb(255, 255, 255);
