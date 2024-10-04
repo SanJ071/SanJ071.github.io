@@ -11,7 +11,7 @@ body {
     display: block;
     padding: 8px;
   }
-
+/*dit is voor de blokken op de pagina kleurmodellen*/
 }
 .kleurrood {
   width: 15em;
@@ -71,7 +71,7 @@ ul {
   float: center;
 }
 .school{
-
+/*De code hieronder is voor de border om de schoolafbeelding*/
   float: left;
   border-color: #e71313;
   border-radius: 10px;
@@ -79,56 +79,56 @@ ul {
 }
 
 .sport{
-
+/*De code hieronder is voor de border om afbeelding van de sportschool en de tekst erboven*/
   float: left;
   border-color: #e71313;
   border-radius: 10px;
   border: solid #ff0000;
 }
 .werk{
-
+/*De code hieronder is voor de border om afbeelding van mijn werk en de tekst erboven*/
   float: left;
   border-color: #c27e1f;
   border-radius: 10px;
   border: solid #c27e1f;
 }
 .PS4{
-
+/*De code hieronder is voor de border om afbeelding van de PS4 en de tekst erboven*/
   float: left;
   border-color: rgb(0, 0, 255);
   border-radius: 10px;
   border: solid rgb(0, 0, 255);
 }
 .Floris{
-
+/*De code hieronder is voor de border om de link naar de website van Floris en de tekst erboven*/
   float: left;
   border-color: rgb(0, 0, 255);
   border-radius: 10px;
   border: solid rgb(0, 0, 255);
 }
 .Dante{
-
+/*De code hieronder is voor de border om de link naar de website van Dante en de tekst erboven*/
   float: left;
   border-color: rgb(255, 0, 0);
   border-radius: 10px;
   border: solid rgb(255, 0, 0);
 }
 .Tamer{
-
+/*De code hieronder is voor de border om de link naar de website van Tamer en de tekst erboven*/
   float: left;
   border-color: green;
   border-radius: 10px;
   border: solid rgb(0, 128, 0);
 }
 .Tim{
-
+/*De code hieronder is voor de border om de link naar de website van Tim van Nobelen en de tekst erboven*/
   float: left;
   border-color: rgb(0, 238, 255);
   border-radius: 10px;
   border: solid rgb(0, 238, 255);
 }
 .Thom{
-
+/*De code hieronder is voor de border om de link naar de website van Thom van Nobelend en de tekst erboven*/
   float: left;
   border-color: white;
   border-radius: 10px;
