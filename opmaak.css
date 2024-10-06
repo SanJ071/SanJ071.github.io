@@ -68,7 +68,7 @@ ul {
   
 /*dit is voor de kleur als je over de link hovert*/
   li a:hover {
-    background-color: #fd0b0b;
+    background-color: gray;
 }
 /*code voor de tekst op pagina kleurmodellen*/
 .roodtekst1{
