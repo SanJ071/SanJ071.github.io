@@ -1,28 +1,45 @@
+/*@import is gebruikt voor het lettertype Sans-serif*/
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+/*body is wat op elke body tag wordt toegepast, praktisch gezien elke pagina*/
 body {
+  /*font-family is voor het lettertype sans serif*/
   font-family: sans-serif;
+  /*height geeft de hoogte van de site aan(dus eigenlijk hoever je naar beneden kunt scrollen*/
   height:1000px;
+  /*background color is de kleur van de achtergrond*/
     background-color: rgb(0, 0, 0);
-  ul {
+  /*ul zorgt ervoor dat de navigatiebar werkt*/
+    ul {
+      /*list-style-type is voor wat voor type lijst je wilt hebben*/
     list-style-type: none;
+    /*margin is de afstand van de rand van een element tot de rand van het andere element of de rand van het element ernaast*/
     margin: 0;
+    /*padding is de lege ruimte om tekst/afbeelding*/
     padding: 0;
   }
-  
+  /*a is voor de navigatiebar*/
   a {
+    /*zorgt ervoor dat de knoppen blokken hebben*/
     display: block;
+    /*ruimte om de tekst heen*/
     padding: 8px;
   }
 /*dit is voor de blokken op de pagina kleurmodellen*/
 }
 .kleurrood {
+  /*width is hoe wijd de border is*/
   width: 15em;
+  /*hoe dik de border is*/
   border: 1px solid #fd0b0b;
+  /*box shadow is de schaduw*/
   box-shadow: 8px 8px 5px #444;
   padding: 8px 12px;
+  /*de positie van de dov*/
   position:relative; top:0px; left: 540px; margin-left:0px; margin-right:0px;
+  /*de kleur van de box*/
   background-image: linear-gradient(180deg, #e71313, #ff6f00 40%, #d31155);
 }
+/*ul zorgt ervoor dat de navigatiebar werkt*/
 ul {
   list-style-type: none;
   margin: 0;
@@ -36,11 +53,11 @@ ul {
     overflow: hidden;
     background-color: #000000;
   }
-  
+  /*bepaalt dat de navigatiebar aan de linkerkant begint*/
   li {
     float: left;
   }
-  
+  /*dit geeft te links een kleur en padding*/
   li a {
     display: block;
     color: white;
@@ -49,16 +66,23 @@ ul {
     text-decoration: none;
   }
   
-
+/*dit is voor de kleur als je over de link hovert*/
   li a:hover {
-    background-color: #000000;
+    background-color: #fd0b0b;
 }
+/*code voor de tekst op pagina kleurmodellen*/
 .roodtekst1{
+  /*Hoe wijd het blok is*/
   width: 20em;
+  /*hoe dik de border is en de kleur*/
   border: 1px solid #fd0b0b;
+  /*de schaduw van de box*/
   box-shadow: 8px 8px 5px #444;
+  /*padding om de tekst*/
   padding: 8px 18px;
+  /*de positie van de doos*/
   position:relative; top:20px; left: 500px; margin-left:0px; margin-right:0px;
+  /*de kleur van de door*/
   background-image: linear-gradient(180deg, #e71313, #ff6f00 40%, #f20000);
 }
 .roodtekst2{
@@ -69,17 +93,22 @@ ul {
   position:relative; top:30px; left: 500px; margin-left:0px; margin-right:0px;
   background-image: linear-gradient(180deg, #e71313, #ff6f00 40%, #f20000);
 }
+/*dit is zodat de afbeelding op de pagina binair in het midden blijft*/
 .binair {
   float: center;
 }
 .school{
 /*De code hieronder is voor de border om de schoolafbeelding*/
+/*dat de afbeelding links zit*/
   float: left;
+  /*de kleur van de border*/
   border-color: #e71313;
+  /*hoe dik de border is*/
   border-radius: 10px;
+  /*de kleur van de border*/
   border: solid #ff6f00;
 }
-
+/*hiernaa is de code hetzelfde voor alle andere borders op deze site*/
 .sport{
 /*De code hieronder is voor de border om afbeelding van de sportschool en de tekst erboven*/
   float: left;
