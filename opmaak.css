@@ -159,10 +159,18 @@ ul {
   border: solid rgb(0, 238, 255);
 }
 .Thom{
-/*De code hieronder is voor de border om de link naar de website van Thom van Nobelend en de tekst erboven*/
+/*De code hieronder is voor de border om de link naar de website van Thom van Nobelen en de tekst erboven*/
   border-inline: 100%;
 float: left;
   border-color: white;
   border-radius: 10px;
   border: solid rgb(255, 255, 255);
 }
+.input{
+  /*De code hieronder is voor de border om de tekst*/
+    border-inline: 100%;
+  float: left;
+    border-color: white;
+    border-radius: 10px;
+    border: solid rgb(255, 255, 255);
+  }
