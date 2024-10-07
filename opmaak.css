@@ -186,7 +186,7 @@ float: left;
       /*De code hieronder is voor de border om de tekst*/
         border-inline: 100%;
       float: left;
-        border-color: orange;
+        border-color: red;
         border-radius: 10px;
-        border: solid rgb(255, 165, 0);
+        border: solid rgb(255, 0, 0);
       }
