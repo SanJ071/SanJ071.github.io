@@ -182,3 +182,11 @@ float: left;
       border-radius: 10px;
       border: solid rgb(255, 165, 0);
     }
+    .map{
+      /*De code hieronder is voor de border om de tekst*/
+        border-inline: 100%;
+      float: left;
+        border-color: orange;
+        border-radius: 10px;
+        border: solid rgb(255, 165, 0);
+      }
