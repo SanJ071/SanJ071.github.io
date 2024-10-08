@@ -190,3 +190,12 @@ float: left;
         border-radius: 10px;
         border: solid rgb(255, 0, 0);
       }
+    .footer{
+    /*De code hieronder is voor de footer*/
+    border-inline: 100%;
+    float: left;
+    border-color: orange;
+    background-color: orange;   
+    border-radius: 10px;
+    border: solid rgb(255, 165, 0);
+    }
