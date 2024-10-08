@@ -193,7 +193,7 @@ float: left;
     .footer{
     /*De code hieronder is voor de footer*/
     border-inline: 100%;
-    float: left;
+    text-align: center;
     border-color: orange;
     background-color: orange;   
     border-radius: 10px;
