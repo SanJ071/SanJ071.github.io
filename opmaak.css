@@ -192,7 +192,7 @@ float: left;
       }
     .footer{
     /*De code hieronder is voor de footer*/
-    border-radius: 50%;
+    border-radius: 100%;
     text-align: center;
     border-color: orange;  
     border-radius: 10px;
