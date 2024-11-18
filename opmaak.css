@@ -57,7 +57,7 @@ ul {
   li {
     float: left;
   }
-  /*dit geeft te links een kleur en padding*/
+  /*dit geeft de links een kleur en padding*/
   li a {
     display: block;
     color: white;
@@ -68,7 +68,7 @@ ul {
   
 /*dit is voor de kleur als je over de link hovert*/
   li a:hover {
-    background-color: black;
+    background-color: rgb(255, 0, 0);
 }
 /*code voor de tekst op pagina kleurmodellen*/
 .roodtekst1{
