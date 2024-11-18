@@ -14,7 +14,7 @@ body {
     list-style-type: none;
     /*margin is de afstand van de rand van een element tot de rand van het andere element of de rand van het element ernaast*/
     margin: 0;
-    /*padding is de lege ruimte om tekst/afbeelding*/
+    /*padding is de lege ruimte om tekst*/
     padding: 0;
   }
   /*a is voor de navigatiebar*/
